@@ -1,0 +1,5 @@
+kafka-python,
+boto3,
+fastapi,
+uvicorn,
+psycopg2 # Install other db drivers if needed
